@@ -1,0 +1,7 @@
+To use this program, first install python
+Add python to path
+Install the program folder
+Extract it 
+Naviagate to folder and type in terminal "pip install matplotlib numpy"
+Run the program
+Enjoy ;)
